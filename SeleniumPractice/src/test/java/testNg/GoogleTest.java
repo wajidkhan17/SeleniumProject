@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 public class GoogleTest {
 	WebDriver driver;
 
+	//This is the basic testng class with the annotation examples
 	@BeforeMethod
 	public void setup() {
 		driver = new ChromeDriver();
