@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG Session" verbose="1">
+
+	<test name="MyTest">
+		<classes>
+			<class name="testNg.GoogleTest" />
+			<class name="testNg.NewTest" />
+			<class name="testNg.LoginTest" />
+		</classes>
+	</test>
+
+</suite>

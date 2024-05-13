@@ -1,0 +1,15 @@
+seleniumsessions\SeleniumLocators.class
+seleniumsessions\LocatorsConcept.class
+seleniumsessions\TopCastingOption.class
+seleniumsessions\BrowserUtils.class
+seleniumsessions\ElementUtil.class
+seleniumsessions\AmzonTest.class
+seleniumsessions\GetAttributeList.class
+seleniumsessions\WebDriverBasics.class
+seleniumsessions\TagName.class
+seleniumsessions\handleLinksElement.class
+seleniumsessions\LoginPageTest.class
+seleniumsessions\getAttribute.class
+seleniumsessions\TotalLinks.class
+seleniumsessions\WebDriverManager.class
+seleniumsessions\QuitvsClose.class
