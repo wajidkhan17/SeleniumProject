@@ -16,7 +16,8 @@ public class GoogleTest {
 		driver = new ChromeDriver();
 		driver.get("http://www.google.com");
 	}
-
+	
+	//@Test notation examples
 	@Test(groups = "Title")
 	public void googleTitle() {
 		String str = driver.getTitle();
